@@ -16,13 +16,7 @@ script found in north-eastern Himalayas, the term aura was defined to be ratio o
 one’s volume to his/her surface area. To make it simpler, we have defined the aura
 to be the following:
 
-aura =
-
-Volume (in cm
-3
-)
-
-Number of pixels occupied by the object
+aura =Volume (in cm^3)/Number of pixels occupied by the object
 In 256 A.D. the average human aura was found to be 24 units.
 You are the only AI expert left on the planet, please help us to find the aura of
 humans in all images (rounded to 2 decimal places).
